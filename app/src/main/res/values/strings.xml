@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FX AI Unity</string>
+    <string name="app_subtitle">Lite AI Media Suite • 200GB Oracle Cloud</string>
+    <string name="nav_photos">Photos</string>
+    <string name="nav_albums">Albums</string>
+    <string name="nav_oracle">Oracle 200GB</string>
+    <string name="nav_guide">Setup Guide</string>
+    <string name="search_hint">Search \"डूबता हुआ सूरज\", \"sunset\", \"मेरा डॉक्यूमेंट\"…</string>
+    <string name="camera_button_desc">Open Live Camera</string>
+    <string name="upload_button_desc">Import Photos from Device</string>
+    <string name="readme_button_desc">View Open-Source README and Architecture</string>
+    <string name="clear_search_desc">Clear search query</string>
+    <string name="ai_expand_desc">Expand query with Gemini AI</string>
+</resources>

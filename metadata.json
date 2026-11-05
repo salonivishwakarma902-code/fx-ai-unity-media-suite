@@ -1,0 +1,6 @@
+{
+  "name": "FX AI Unity",
+  "description": "Open-Source Self-Hosted AI Photo Cloud & Oracle Cloud 200GB Server Manager with Multilingual Gemini Vision Search",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
